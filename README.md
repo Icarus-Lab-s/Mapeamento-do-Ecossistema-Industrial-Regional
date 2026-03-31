@@ -22,7 +22,6 @@
 ♦ [Termo de Requisitos de Permanência](#termo-de-requisitos-de-permanência) <br />
 ♦ [Documentação das Sprints](/documentation)  <br />
 ♦ [Documentação da API (Swagger)](/documentation/spring-docs/swagger-acess.md)  <br />
-♦ [Manual de Instalação](documentation/installation-guide)<br >
 
 ## Requisitos
 
