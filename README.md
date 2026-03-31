@@ -21,7 +21,7 @@
 ♦ [Tecnologias Utilizadas](#tecnologias-utilizadas) <br />
 ♦ [Termo de Requisitos de Permanência](#termo-de-requisitos-de-permanência) <br />
 ♦ [Documentação das Sprints](/documentation)  <br />
-♦ [Documentação da API (Swagger)](/documentation/spring-docs/swagger-acess.md)  <br />
+
 
 ## Requisitos
 
@@ -62,7 +62,7 @@
 | Fase                   | Início         | Entrega        | Status  |
 |-----------------------|----------------|-----------------|---------|
 | Kick off do projeto   | 16/03/2026     | 30/03/2026      |   ✅   | 
-| [Sprint 1](/documentation/README.md)|      |       |      | 
+| [Sprint 1](/documentation/README.md)| 31/03/2026    | 24/04/2026   |      | 
 | Sprint Review/Planning |      |      |      | 
 | [Sprint 2](/documentation/README.md)|     |       |      | 
 | Sprint Review/Planning |      |       |      | 
