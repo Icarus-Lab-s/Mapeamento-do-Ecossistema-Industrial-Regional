@@ -46,9 +46,15 @@
 
 ## Integrantes do projeto
 
-| LinkedIn & GitHub | Integrantes | Função |
-|-------------------|-------------|--------|
-| 
+| LinkedIn & GitHub   | Integrantes | Painel de Mapeamento do Ecossistema industrial Regional |
+|--------------------|--------------------------------------|------------------|
+| <a href="https://www.linkedin.com/in/dantegabriel/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> <a href="https://github.com/DanteCry0" target="_blank"><img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>   | Dante Gabriel |Scrum Master|
+| <a href="" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>   | Isaac Oliveira | Product Owner|
+| <a href="https://www.linkedin.com/in/isabel-veloso-667519266/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> <a href="https://github.com/Isabel-Lima-Veloso" target="_blank"><img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>   | Isabel Veloso | Dev Team |
+| <a href="" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>   | Gabriel Vanil | Dev Team 
+| <a href="" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>   | João Paulo | Dev Team 
+| <a href="" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>   | Rian Vinícius | Dev Team 
+</div>
 
 ## Backlog do Produto
 
