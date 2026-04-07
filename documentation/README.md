@@ -69,7 +69,7 @@
 
 
 ### Video de demonstração Sprint 1
-[🎥 Veja o vídeo de demonstração]()
+
 
 ---
 
