@@ -13,6 +13,10 @@
   
 <p>Nós da equipe <b>Icarus</b> estudantes do 1º semestre do curso de GPI na FATEC SJC, estamos comprometidos com o desenvolvimento do projeto "Mapeamento do Ecossistema Industrial Regional" neste repositório. O objetivo do projeto é criar um dashboard interativo e com filtragem de dados para pesquisa e analise.</p>
 
+# Objetivo do Projeto
+Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+* 
+
 ## Índice
 ♦ [Requisitos](#requisitos) <br />
 ♦ [Integrantes do projeto](#integrantes-do-projeto) <br />
