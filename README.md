@@ -33,20 +33,28 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Número do Requisito | Requisito do Parceiro |
 |---------------------|-----------------------|
-| RF1 | Desenvolver uma DashBoard em PowerBi, com gráficos e possibilidade de filtragem |
-| RF2 |  |
-| RF3 |  |
-| RF4 |  |
-| RF5 | |
+| RF1 | O dashboard deve apresentar uma visão geral dos setores econômicos com base na RAIS |
+| RF2 | O dashboard deve permitir a comparação entre setores econômicos |
+| RF3 | O dashboard deve apresentar indicadores de emprego por setor |
+| RF4 | O dashboard deve permitir a filtragem dos dados por ano |
+| RF5 | O dashboard deve apresentar uma análise específica do setor aeronáutico |
+| RF6 | O dashboard deve permitir a comparação do setor aeronáutico com outros setores |
+| RF7 | O dashboard deve apresentar a distribuição geográfica dos dados (UF ou município) |
+| RF8 | O dashboard deve apresentar gráficos interativos |
+| RF9 | O dashboard deve permitir navegação entre diferentes telas |
 
 ### Requisitos Não Funcionais:
 
 | Número do Requisito | Requisito do Parceiro |
 |---------------------|-----------------------|
-| RNF1 |  |
-| RNF2 |  |
-| RNF3 |  |
-| RNF4 |  |
+| RNF1 | O dashboard deve apresentar boa performance na exibição dos dados |
+| RNF2 | O dashboard deve ser intuitivo e de fácil utilização |
+| RNF3 | Os dados apresentados devem ser confiáveis e consistentes |
+| RNF4 | O dashboard deve suportar grande volume de dados da RAIS |
+| RNF5 | O dashboard deve permitir atualização dos dados |
+| RNF6 | O dashboard deve possuir visualização clara e organizada |
+| RNF7 | O dashboard deve ser compatível com diferentes dispositivos |
+| RNF8 | O dashboard deve apresentar tempo de resposta adequado |
 
 ## Integrantes do projeto
 
