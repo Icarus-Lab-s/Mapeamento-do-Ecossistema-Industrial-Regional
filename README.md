@@ -62,9 +62,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Backlog do Produto
 
-| Rank | Prioridade | ID | User Story | Estimativa | Requisitos do Parceiro |
+| Rank | Prioridade | ID | User Story | Estimativa (h) | Requisitos do Parceiro |
 |------|------------|----|------------|------------| -----------------------|
-| 1 | ALTA | PS-1 |  |  | RF2, RNF1 |
+| 1 | ALTA | US-1 | Como cliente, quero visualizar uma visão geral dos setores econômicos com base na RAIS para entender quais segmentos estão em destaque | 5 | RF01, RNF02, RNF06 |
 
 
 ## Cronograma do Projeto
