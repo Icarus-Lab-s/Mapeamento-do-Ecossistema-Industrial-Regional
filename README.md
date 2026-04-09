@@ -65,7 +65,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Rank | Prioridade | ID | User Story | Estimativa (h) | Requisitos do Parceiro |
 |------|------------|----|------------|------------| -----------------------|
 | 1 | ALTA | US-1 | Como cliente, quero visualizar uma visão geral dos setores econômicos com base na RAIS para entender quais segmentos estão em destaque | 5 | RF01, RNF02, RNF06 |
-
+| 2 | ALTA | US-2 | Como cliente, quero comparar os setores econômicos para identificar quais possuem maior volume de vínculos empregatícios | 5 | RF02, RNF01 |
+| 3 | ALTA | US-3 | Como cliente, quero visualizar indicadores de emprego por setor para apoiar análises estratégicas | 5 | RF03, RNF03 |
+| 4 | ALTA | US-4 | Como cliente, quero filtrar os dados pelo ano de 2024 para analisar  | 7 | RF04, RNF05 |
+| 5 | ALTA | US-5 | Como cliente, gostaria de visualizar em uma segunda tela focada no setor aeronáutico para aprofundar a análise | 5 | RF05, RNF06 |
+| 6 | ALTA | US-6 | Como cliente, quero analisar o desempenho do setor aeronáutico em relação aos demais setores | 5 | RF06, RNF01 |
+| 7 | MÉDIA | US-7 | Como cliente, quero visualizar dados por região (UF e município) para entender a distribuição geográfica na região | 5 | RF07, RNF04 |
+| 8 | MÉDIA | US-8 | Como cliente, quero visualizar gráficos claros e interativos para facilitar a interpretação dos dados | 3 | RF08, RNF02 |
+| 9 | MÉDIA | US-9 | Como cliente, quero identificar tendências e padrões nos dados de emprego para apoiar decisões | 5 | RF03, RNF03 |
+| 10 | BAIXA | US-10 | Como cliente, quero navegar entre diferentes telas do dashboard para explorar os dados de forma intuitiva | 2 | RF09, RNF02 |
 
 ## Cronograma do Projeto
 
