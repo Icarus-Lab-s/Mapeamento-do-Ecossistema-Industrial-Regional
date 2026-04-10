@@ -36,36 +36,6 @@
 ### Definition of done: 
 - 
 
-## Regras de Negócio
-
-| Definições do Cliente                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------|
-|                                                 |
-|                                                                             |
-
-
----
-
-
-| Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
-|------|------------|----|------------|------------|--------|-----------------------|
-|  | |  | |  |  |   |
-
-### Requisitos
-
-### Definition of ready: 
-
-
-### Definition of done: 
-
-
-## Regras de Negócio
-
-| Definições do Cliente                                                        |
-|---------------------------------------------------------------------------------------------------------------------|
-| |
-|  |
-
 ---
 
 ### Burndown
