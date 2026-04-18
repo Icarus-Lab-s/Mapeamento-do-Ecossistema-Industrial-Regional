@@ -98,7 +98,7 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 
 ## Tecnologias Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,gcp,py&theme=light)](https://skillicons.dev)
 
 ## Termo de Requisitos de Permanência
 
