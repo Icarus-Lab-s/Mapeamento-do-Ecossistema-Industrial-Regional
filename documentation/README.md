@@ -26,20 +26,36 @@
 | 4 | MÉDIA | US-8 | Como cliente, quero visualizar gráficos claros e interativos para facilitar a interpretação dos dados | 3 | 1 | RF08, RNF02 |
 
 ### Requisitos
-- 
+- RF01 → Visão geral dos setores
+- RF04 → Filtro por ano
+- RF07 → Visualização por região
+- RF08 → Gráficos interativos
+- RNF02 → Usabilidade
+- RNF04 → Volume de dados
+- RNF05 → Atualização de dados
+- RNF06 → Clareza visual
 
 ### Definition of ready: 
 - User story claramente definido, incluindo critérios de aceitação.
 - Tarefas definidas, atribuidas e relacionadas às User Stories
 - A user story foi estimada e priorizada corretamente na sprint.
+- Houver entendimento de quais visuais serão utilizados
+- Os dados necessários da RAIS estiverem identificados
+- A fonte de dados estiver acessível e validada
 
 ### Definition of done: 
-- 
+- Os dados da RAIS estiverem carregados, tratados e filtrados corretamente
+- O dashboard no Power BI apresentar:
+  US-1,US-4,US-7,US-8
+-Os gráficos estiverem legíveis, organizados e com títulos claros
+-Os filtros estiverem funcionando corretamente (sem quebra de dados)
+-A navegação e interação do usuário estiverem intuitivas
 
 ---
 
-### Burndown
-
+### Burndown<br>
+<img width="1484" height="729" alt="image" src="https://github.com/user-attachments/assets/0f0b54b2-f817-41ef-9d91-fa7a0677aa8c" />
+<br>
 
 ### Video de demonstração Sprint 1
 
