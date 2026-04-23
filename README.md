@@ -33,7 +33,7 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 
 | Número do Requisito | Requisito do Parceiro |
 |---------------------|-----------------------|
-| RF1 | O dashboard deve apresentar uma visão geral dos setores econômicos com base na RAIS |
+| RF1 | O dashboard deve apresentar uma visão geral dos setores econômicos de São José dos Campos e Região com base na RAIS |
 | RF2 | O dashboard deve permitir a comparação entre setores econômicos |
 | RF3 | O dashboard deve apresentar indicadores de emprego por setor |
 | RF4 | O dashboard deve permitir a filtragem dos dados por ano |
@@ -88,8 +88,8 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 | Fase                   | Início         | Entrega        | Status  |
 |-----------------------|----------------|-----------------|---------|
 | Kick off do projeto   | 16/03/2026     | 30/03/2026      |   ✅   | 
-| [Sprint 1](/documentation/README.md)| 31/03/2026    | 24/04/2026   |      | 
-| Sprint Review/Planning |      |      |      | 
+| [Sprint 1](/documentation/README.md)| 31/03/2026    | 24/04/2026   |    ✅  | 
+| Sprint Review/Planning |  24/04/2026    |  24/04/2026    |  ✅    | 
 | [Sprint 2](/documentation/README.md)|     |       |      | 
 | Sprint Review/Planning |      |       |      | 
 | [Sprint 3](/documentation/README.md)|      |       |      | 
