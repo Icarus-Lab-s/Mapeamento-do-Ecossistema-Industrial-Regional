@@ -60,6 +60,7 @@
 ### Video de demonstração Sprint 1
 
 [Consulta feita pelo BigQuery](https://youtu.be/zopgMaqeDP4)
+
 [Codigo usado](https://github.com/Icarus-Lab-s/Mapeamento-do-Ecossistema-Industrial-Regional/blob/main/documentation/assets/SQL%20UTILIZADO%20PARA%20CONSULTA.sql)
 
 ---
