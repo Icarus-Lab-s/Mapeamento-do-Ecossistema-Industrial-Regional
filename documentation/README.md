@@ -59,9 +59,9 @@
 
 ### Video de demonstração Sprint 1
 
-[Consulta feita pelo BigQuery](https://youtu.be/zopgMaqeDP4)
+[Video sobre consulta feita pelo BigQuery](https://youtu.be/zopgMaqeDP4)
 
-[Codigo usado](https://github.com/Icarus-Lab-s/Mapeamento-do-Ecossistema-Industrial-Regional/blob/main/documentation/assets/SQL%20UTILIZADO%20PARA%20CONSULTA.sql)
+[Codigo usado no SQL](https://github.com/Icarus-Lab-s/Mapeamento-do-Ecossistema-Industrial-Regional/blob/main/documentation/assets/SQL%20UTILIZADO%20PARA%20CONSULTA.sql)
 
 [Apresentação do PowerBI](https://youtu.be/Vb84qCSkiZw)
 
