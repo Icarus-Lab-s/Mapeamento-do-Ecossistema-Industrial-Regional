@@ -59,7 +59,7 @@
 
 ### Video de demonstração Sprint 1
 
-[Consulta feita pelo bigquery](https://youtu.be/zopgMaqeDP4)
+[Consulta feita pelo BigQuery](https://youtu.be/zopgMaqeDP4)
 
 ---
 
