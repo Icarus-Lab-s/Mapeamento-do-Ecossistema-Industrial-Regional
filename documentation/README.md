@@ -78,6 +78,13 @@
 | 7 | ALTA | US-5 | Como cliente, gostaria de visualizar em uma segunda tela focada no setor aeronáutico para aprofundar a análise | 5 | 2 | RF05, RNF06 |
 
 
+### Requisitos
+- RF02 → Comparação entre setores econômicos
+- RF03 → Indicadores de emprego por setor
+- RF05 → Análise específica do setor aeronáutico
+- RNF01 → Boa performance na exibição dos dados
+- RNF03 → Dados confiáveis e consistentes
+- RNF05 → Deve permitir atualização dos dados
 
 </body>
 </html>
