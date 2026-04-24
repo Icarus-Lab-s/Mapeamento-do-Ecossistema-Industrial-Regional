@@ -69,5 +69,15 @@
 
 
 
+## User Stories da Sprint
+
+| Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
+|------|------------|----|------------|------------|--------|-----------------------|
+| 5 | ALTA | US-2 | Como cliente, quero comparar os setores econômicos para identificar quais possuem maior volume de vínculos empregatícios | 5 | 2 | RF02, RNF01 |
+| 6 | ALTA | US-3 | Como cliente, quero visualizar indicadores de emprego por setor para apoiar análises estratégicas  | 5 | 2 | RF03, RNF03 |
+| 7 | ALTA | US-5 | Como cliente, gostaria de visualizar em uma segunda tela focada no setor aeronáutico para aprofundar a análise | 5 | 2 | RF05, RNF06 |
+
+
+
 </body>
 </html>
