@@ -97,8 +97,15 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 | Feira de Soluções     |      | 18/06/2026      |     | 
 
 ## Tecnologias Utilizadas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,gcp,py&theme=light" height="48"/>
+  </a>
+  <img src="https://github.com/user-attachments/assets/198d7763-92dc-4685-8780-8c7db5d99fa0" width="48" />
+  <img src="https://github.com/user-attachments/assets/2d09ff6a-58b9-4582-9270-4984dc7b776a" width="48" />
+  <img src="https://github.com/user-attachments/assets/ec7f6d82-7c84-4871-9c70-865951236cc5" width="48" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,gcp,py&theme=light)](https://skillicons.dev)
 
 ## Termo de Requisitos de Permanência
 
