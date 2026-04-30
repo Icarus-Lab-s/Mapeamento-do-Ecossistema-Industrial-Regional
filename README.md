@@ -25,6 +25,7 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 ♦ [Tecnologias Utilizadas](#tecnologias-utilizadas) <br />
 ♦ [Termo de Requisitos de Permanência](#termo-de-requisitos-de-permanência) <br />
 ♦ [Documentação das Sprints](/documentation)  <br />
+♦ [MVP das Sprints](/MVP)<br />
 
 
 ## Requisitos
@@ -88,8 +89,8 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 | Fase                   | Início         | Entrega        | Status  |
 |-----------------------|----------------|-----------------|---------|
 | Kick off do projeto   | 16/03/2026     | 30/03/2026      |   ✅   | 
-| [Sprint 1](/documentation/README.md)| 31/03/2026    | 01/05/2026   |  🔄   | 
-| Sprint Review/Planning |  23/04/2026    |  31/04/2026    |  🔄    | 
+| [Sprint 1](/documentation/README.md)| 31/03/2026    | 01/05/2026   |  ✅   | 
+| Sprint Review/Planning |  04/05/2026    |  04/05/2026    |  🔄    | 
 | [Sprint 2](/documentation/README.md)|   02/05/2026  |  18/05/2026     | 🔄    | 
 | Sprint Review/Planning |      |       |      | 
 | [Sprint 3](/documentation/README.md)| 19/05/2026     |   08/06/2026    |   🔄   | 
