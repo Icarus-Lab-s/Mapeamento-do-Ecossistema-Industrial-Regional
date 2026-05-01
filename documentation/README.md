@@ -65,6 +65,8 @@
 
 [Apresentação do PowerBI](https://youtu.be/Vb84qCSkiZw)
 
+### [MVP SPRINT 1](/MVP)
+📝 Acima segue a entrega do MPV da primeira sprint
 ---
 
 </details>
