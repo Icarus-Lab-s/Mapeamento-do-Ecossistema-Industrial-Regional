@@ -11,8 +11,8 @@
   - Estrutura base do painel  
   - Visualização inicial dos dados  
   - Conexão preliminar com as bases utilizadas  
-- **Limitações:** gráficos ainda não interativos, filtros limitados.  
-- **Escopo reduzido:** foco apenas na criação da fundação do dashboard.
+- **Limitações:** filtros limitados.  
+- **Escopo reduzido:** foco apenas na criação da fundação do dashboard, sem foco direto na área da aeronautica.
 
 ---
 
