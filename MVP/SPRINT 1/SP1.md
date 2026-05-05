@@ -41,3 +41,5 @@
 ---
 
 ## [Visualização do Dashboard Publicado](https://we.tl/t-1QFSWGcZMHUxJdop)
+<img width="500" height="500" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/5923672c-dbbc-4143-abc4-0a4b485995c7" />
+
