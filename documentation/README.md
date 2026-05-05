@@ -65,7 +65,7 @@
 
 [Apresentação do PowerBI](https://youtu.be/Vb84qCSkiZw)
     
-## [MVP SPRINT 1](/MVP)
+## [MVP SPRINT 1](https://github.com/Icarus-Lab-s/Mapeamento-do-Ecossistema-Industrial-Regional/blob/main/MVP/SPRINT%201/SP1.md)
 📝 Acima segue a entrega do MPV da primeira sprint
 
 ---
