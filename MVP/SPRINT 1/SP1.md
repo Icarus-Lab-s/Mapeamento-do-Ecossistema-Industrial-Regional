@@ -41,5 +41,7 @@
 ---
 
 ## [Visualização do Dashboard Publicado](https://we.tl/t-1QFSWGcZMHUxJdop)
-<img width="500" height="500" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/5923672c-dbbc-4143-abc4-0a4b485995c7" />
+<img width="1162" height="650" alt="DashBoardSprint1" src="https://github.com/user-attachments/assets/a5327640-077f-48d0-9c2a-d3cd9e3fd627" />
+
+
 
