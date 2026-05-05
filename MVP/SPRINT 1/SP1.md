@@ -18,6 +18,7 @@
 
 ## 👥  Usuários-Alvo
 - **Usuário-Alvo: Cliente**
+  
    *Dores*
   -  Quais são os principais setores industriais e de serviços presentes na região de São José dos Campos?
   - Como esses setores estão distribuídos geograficamente no município e na região,quais tipos de atividades produtivas predominam?
