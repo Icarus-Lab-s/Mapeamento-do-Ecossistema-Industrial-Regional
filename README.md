@@ -91,11 +91,11 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 | Kick off do projeto   | 16/03/2026     | 30/03/2026      |   ✅   | 
 | [Sprint 1](/documentation/README.md)| 31/03/2026    | 01/05/2026   |  ✅   | 
 | Sprint Review/Planning |  04/05/2026    |  04/05/2026    |  ✅    | 
-| [Sprint 2](/documentation/README.md)|   02/05/2026  |  18/05/2026     | 🔄    | 
-| Sprint Review/Planning |      |       |      | 
+| [Sprint 2](/documentation/README.md)|   02/05/2026  |  28/05/2026     | 🔄    | 
+| Sprint Review/Planning |   01/06/2026   |   01/06/2026   |      | 
 | [Sprint 3](/documentation/README.md)| 19/05/2026     |   08/06/2026    |   🔄   | 
-| Sprint review         |      |       |      | 
-| Feira de Soluções     |      | 18/06/2026      |     | 
+| Sprint review         |  18/06/2026  |  18/06/2026  |      | 
+| Feira de Soluções     |      |  25/06/2026   |     | 
 
 ## Tecnologias Utilizadas
 <p>
