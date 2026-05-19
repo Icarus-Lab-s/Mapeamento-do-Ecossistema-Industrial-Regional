@@ -22,10 +22,10 @@
    *Dores*
   -  Quais são os principais setores industriais e de serviços presentes na região de São José dos Campos? ✅
   - Como esses setores estão distribuídos geograficamente no município e na região,quais tipos de atividades produtivas predominam? ✅
-  - Quais são os principais macroprocessos produtivos identificados nas empresas da região?
+  - Quais são os principais macroprocessos produtivos identificados nas empresas da região? ✅
   - Qual a relação entre os setores industriais presentes e o desenvolvimento tecnológico regional?
   - Como o ecossistema produtivo regional se conecta com inovação, tecnologia e desenvolvimento econômico?
-  - Quais oportunidades de atuação profissional podem ser identificadas para o engenheiro de produção nesse contexto?
+  - Quais oportunidades de atuação profissional podem ser identificadas para o engenheiro de produção nesse contexto? 
 
 ---
 
