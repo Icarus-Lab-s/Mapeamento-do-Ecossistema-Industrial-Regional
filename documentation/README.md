@@ -95,19 +95,14 @@
 - RNF05 → Deve permitir atualização dos dados
 
 ### Definition of Ready
--A segunda tela deve existir no Power BI
--Deve conter dados filtrados ou relacionados ao setor aeronáutico
--Deve permitir análise aprofundada (ex: empresas, CNAE, CBO ou indicadores relevantes)
--Os dados exibidos devem ser baseados nas empresas selecionadas na Sprint
--A navegação entre a tela principal e a segunda tela deve ser clara
--Os dados devem estar organizados e legíveis
+- User story claramente definido, incluindo critérios de aceitação.
+- Tarefas definidas, atribuidas e relacionadas às User Stories
+- A user story foi estimada e priorizada corretamente na sprint.
+- Dados de pesquisa apurados
+- Visuais faceis de entender
 
-### Definition of Done
--Dados coletados e validados
--Dashboard funcional no Power BI
--Informações consistentes com o objetivo da análise
--Documentação disponível no Docs da Equipe Ícarus
--Subtarefas concluídas e atualizadas no Jira
+
+
 
 </body>
 </html>
