@@ -11,7 +11,7 @@
   - Estrutura base do painel  
   - Mapas interativos 
   - Conexão preliminar com as bases utilizadas  
-- **Limitações:** arquivo pesado  
+- **Limitações:** Sem suporte para celular 
 
 
 ---
@@ -39,3 +39,5 @@
 
 
 ---
+
+## [Visualização do Dashboard Publicado](https://app.powerbi.com/view?r=eyJrIjoiNzM2ZGY3MDMtN2Q0MS00M2MyLWI1OWQtNDUxNjk5ZGNiMzIyIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
