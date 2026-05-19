@@ -11,7 +11,7 @@
   - Estrutura base do painel  
   - Mapas interativos 
   - Conexão preliminar com as bases utilizadas  
-- **Limitações:** filtros limitados.  
+- **Limitações:** arquivo pesado  
 
 
 ---
@@ -32,10 +32,10 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story | Prioridade | Estimativa |
 |-----|------------|------------|------------|
-| US-1 | Como cliente, quero visualizar uma visão geral dos setores econômicos com base na RAIS para entender quais segmentos estão em destaque | Alta | 5 |
-| US-4 | Como cliente, quero filtrar os dados pelo ano de 2024 para analisar | Alta | 7 |
-| US-7 | Como cliente, quero visualizar dados por região (UF e município) para entender a distribuição geográfica na região | Média | 5 |
-| US-8 | Como cliente, quero visualizar gráficos claros e interativos para facilitar a interpretação dos dados | Média | 5 |
+| US-2 | Como cliente, quero comparar os setores econômicos para identificar quais possuem maior volume de vínculos empregatícios | Alta | 5 |
+| US-3 | Como cliente, quero visualizar indicadores de emprego por setor para apoiar análises estratégicas | Alta | 5 |
+| US-5 | Como cliente, gostaria de visualizar em uma segunda tela focada no setor aeronáutico para aprofundar a análise | Alta | 5 |
+
 
 
 ---
