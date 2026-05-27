@@ -102,6 +102,11 @@
 - Visuais faceis de entender
 
 
+---
+
+### Burndown<br>
+<img width="1560" height="411" alt="image" src="https://github.com/user-attachments/assets/734fc4b8-6758-4ec8-b6c9-b89c83da8b5f" />
+
 
 
 </body>
