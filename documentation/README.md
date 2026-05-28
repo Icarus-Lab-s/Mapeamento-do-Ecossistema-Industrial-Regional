@@ -107,7 +107,10 @@
 ### Burndown<br>
 <img width="1560" height="411" alt="image" src="https://github.com/user-attachments/assets/734fc4b8-6758-4ec8-b6c9-b89c83da8b5f" />
 
+---
 
+## [MVP SPRINT 2](https://github.com/Icarus-Lab-s/Mapeamento-do-Ecossistema-Industrial-Regional/blob/main/MVP/SPRINT%202/SP2.md)
+📝 Acima segue a entrega do MPV da segunda sprint
 
 </body>
 </html>
