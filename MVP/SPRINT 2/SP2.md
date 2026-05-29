@@ -40,4 +40,4 @@
 
 ---
 
-## [Visualização do Dashboard Publicado](https://app.powerbi.com/groups/me/reports/baa9f096-139d-418b-b411-41e6abe2cd84/806cb0cf69944a343017?experience=power-bi)
+## [Visualização do Dashboard Publicado](https://app.powerbi.com/view?r=eyJrIjoiNTQwM2EyMzktNzhhNC00MTQ0LWIyOTItZDYwYzkyZTNkMDVjIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&pageName=af661d0682da87ab750f)
