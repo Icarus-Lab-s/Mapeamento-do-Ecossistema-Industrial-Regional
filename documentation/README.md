@@ -101,6 +101,13 @@
 - Dados de pesquisa apurados
 - Visuais faceis de entender
 
+### Definition of done: 
+- Perguntas respondidas adequadamente
+- O dashboard no Power BI apresentar:
+  US-2,US-3,US-5
+- Tela da área aeronáutica informativa
+-Os filtros estiverem funcionando corretamente (sem quebra de dados)
+-A navegação e interação do usuário estiverem intuitivas
 
 ---
 
@@ -112,5 +119,46 @@
 ## [MVP SPRINT 2](https://github.com/Icarus-Lab-s/Mapeamento-do-Ecossistema-Industrial-Regional/blob/main/MVP/SPRINT%202/SP2.md)
 📝 Acima segue a entrega do MPV da segunda sprint
 
+---
+
+</details>
+
+<details>
+<summary>Sprint 3</summary>
+
+## User Stories da Sprint
+
+| Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
+|------|------------|----|------------|------------|--------|-----------------------|
+| 6 | ALTA | US-6 | Como cliente, quero analisar o desempenho do setor aeronáutico em relação aos demais setores | 5 | 3 | RF06, RNF01|
+| 9 | MÉDIA | US-9 | Como cliente, quero identificar tendências e padrões nos dados de emprego para apoiar decisões | 5 | 3 | RF03, RNF03|
+| 10 | BAIXA | US-10 | Como cliente, quero navegar entre diferentes telas do dashboard para explorar os dados de forma intuitiva | 2 | 3 | RF09, RNF02 |
+
+### Requisitos
+- RF03 →  apresentar indicadores de emprego por setor
+- RF06 →  permitir a comparação do setor aeronáutico com outros setores
+- RF09 →  permitir navegação entre diferentes telas
+- RNF01 → boa performance na exibição dos dados
+- RNF02 → ser intuitivo e de fácil utilização
+- RNF03 → Os dados apresentados devem ser confiáveis e consistentes
+
+### Definition of ready: 
+- User story claramente definido, incluindo critérios de aceitação.
+- Tarefas definidas, atribuidas e relacionadas às User Stories
+- A user story foi estimada e priorizada corretamente na sprint.
+- Houver entendimento de quais visuais serão utilizados
+- Os dados necessários da RAIS estiverem identificados
+- A fonte de dados estiver acessível e validada
+
+
+### Definition of done: 
+- Perguntas respondidas adequadamente
+- O dashboard no Power BI apresentar:
+  US-6,US-9,US-10
+- Tela da área aeronáutica informativa
+- Dados concretos e sem erros
+- A navegação e interação do usuário estiverem intuitivas
+- Pesquisa de setor apurada
+  
 </body>
 </html>
