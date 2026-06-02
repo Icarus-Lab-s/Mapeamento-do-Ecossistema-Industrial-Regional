@@ -15,7 +15,7 @@
 
 # Objetivo do Projeto
 Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando analisar os setores economicos e industriais no Vale do Paraíba, identificando segmentos em destaque, volume de vínculos empregativos e avaliando o desempenho das empresas no ano de 2024
-* 
+
 
 ## Índice
 ♦ [Requisitos](#requisitos) <br />
