@@ -32,9 +32,9 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story | Prioridade | Estimativa |
 |-----|------------|------------|------------|
-| US-2 | Como cliente, quero comparar os setores econômicos para identificar quais possuem maior volume de vínculos empregatícios | Alta | 5 |
-| US-3 | Como cliente, quero visualizar indicadores de emprego por setor para apoiar análises estratégicas | Alta | 5 |
-| US-5 | Como cliente, gostaria de visualizar em uma segunda tela focada no setor aeronáutico para aprofundar a análise | Alta | 5 |
+| US-2 | Como cliente, quero comparar os setores econômicos para identificar quais possuem maior volume de vínculos empregatícios | Alta | 5 |✅
+| US-3 | Como cliente, quero visualizar indicadores de emprego por setor para apoiar análises estratégicas | Alta | 5 |✅
+| US-5 | Como cliente, gostaria de visualizar em uma segunda tela focada no setor aeronáutico para aprofundar a análise | Alta | 5 |✅
 
 
 
