@@ -32,10 +32,10 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story | Prioridade | Estimativa |
 |-----|------------|------------|------------|
-| US-1 | Como cliente, quero visualizar uma visão geral dos setores econômicos com base na RAIS para entender quais segmentos estão em destaque | Alta | 5 |
-| US-4 | Como cliente, quero filtrar os dados pelo ano de 2024 para analisar | Alta | 7 |
-| US-7 | Como cliente, quero visualizar dados por região (UF e município) para entender a distribuição geográfica na região | Média | 5 |
-| US-8 | Como cliente, quero visualizar gráficos claros e interativos para facilitar a interpretação dos dados | Média | 5 |
+| US-1 | Como cliente, quero visualizar uma visão geral dos setores econômicos com base na RAIS para entender quais segmentos estão em destaque | Alta | 5 |✅
+| US-4 | Como cliente, quero filtrar os dados pelo ano de 2024 para analisar | Alta | 7 |✅
+| US-7 | Como cliente, quero visualizar dados por região (UF e município) para entender a distribuição geográfica na região | Média | 5 |✅
+| US-8 | Como cliente, quero visualizar gráficos claros e interativos para facilitar a interpretação dos dados | Média | 5 |✅
 
 
 ---
